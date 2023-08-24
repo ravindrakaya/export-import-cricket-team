@@ -36,9 +36,6 @@ const convertDbObjectToResponseObject = (dbObject) => {
   };
 };
 
-
-ravindra 
-
 //Get Players API
 
 app.get("/players/", async (request, response) => {
